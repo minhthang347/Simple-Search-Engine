@@ -1,0 +1,9 @@
+/bin
+data/Cranfield/
+.classpath
+.settings/
+AllQueryResult/
+DEV-TEST/
+.project
+/SearchDemo.class
+/TestQueries.class

@@ -1,0 +1,3 @@
+/FileProcessing.class
+/TermProcessing.class
+/FileProcessing$1.class

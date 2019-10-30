@@ -1,0 +1,6 @@
+/Evaluate.class
+/PostingList.class
+/RetrievelResults$1.class
+/RetrievelResults.class
+/StopWords.class
+/Term.class
